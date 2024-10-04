@@ -12,17 +12,18 @@
   }
   
   .choice {
-    height: 165px;
-    width: 165px;
-    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    /* border-radius: 20%; */
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: white;
   }
   
   .choice:hover {
     cursor: pointer;
-    background-color: #081b31;
+    background-color: white;
   }
   
   img {
